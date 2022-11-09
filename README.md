@@ -1,7 +1,7 @@
 # Simple Shell #
 
 A shell is a program that executes other programs in response to commands passed to it.
-A shell is therefore a command line interpreter and operations perfomed by shell scripts which includes **file manipulation, program exeecution and printing text**
+A shell is therefore a command line interpreter and operations perfomed by shell scripts which includes **file manipulation, program execution and printing text**
 
 A shell does these basic things;
 - initialize : reading and executing configuration files
