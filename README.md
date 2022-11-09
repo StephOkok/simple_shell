@@ -1,4 +1,4 @@
-#Simple Shell#
+# Simple Shell #
 
 A shell is a program that executes other programs in response to commands passed to it.
 A shell is therefore a command line interpreter and operations perfomed by shell scripts which includes **file manipulation, program exeecution and printing text**
@@ -8,9 +8,9 @@ A shell does these basic things;
 - interprete : reading command from stdin and executes
 - terminate : frees up memory and shuts
 
-#ALX tasks#
-##Requirements##
-###General###
+# ALX tasks #
+## Requirements ##
+### General ###
 - Allowed editors: vi, vim, emacs
 - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 - All your files should end with a new line
