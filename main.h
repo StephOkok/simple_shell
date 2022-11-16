@@ -243,4 +243,4 @@ int replace_string(char **, char *);
 
 
 
-#endif /*_MAIN_H*/
+#endif
